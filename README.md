@@ -9,11 +9,7 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ---
 
